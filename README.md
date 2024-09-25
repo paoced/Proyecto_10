@@ -1,2 +1,2 @@
-# Proyecto_10
+# Proyecto_Cafetería
 Presentación del proyecto del Sprint 10
